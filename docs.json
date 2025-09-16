@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "xRLive Documentation",
   "colors": {
-    "primary": "#FF0058",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#ff0058",
+    "light": "#ff0058",
+    "dark": "#ff0058"
   },
   "favicon": "/favicon.svg",
   "navigation": {
