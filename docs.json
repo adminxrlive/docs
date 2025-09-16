@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/images/xrlive_logo.png",
-    "dark": "/images/xrlive_logo_dark.png"
+    "light": "/images/xrlive_logo_dark.png",
+    "dark": "/images/xrlive_logo.pngg"
   },
   "navbar": {
     "links": [
